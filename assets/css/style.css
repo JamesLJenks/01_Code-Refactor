@@ -109,37 +109,11 @@ p {
     text-align: center;
 }
 
-/* REMOVE CODE */
-/* .benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-} */
-
-/* REMOVE CODE */
-/* .benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-} */
-
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
-/* REMOVE CODE */
-/* .benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-} */
-
-/* REMOVE CODE */
-/* .benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-} */
 
 /* Insert Comment */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing{
@@ -151,58 +125,16 @@ p {
     color: #ffffff;
 }
 
-/* REMOVE THIS CSS */
-/* .online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-} */
-
-/* REMOVE THIS CSS */
-/* .social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-} */
-
 /* Sets the max-height for the images in the main sections */
 .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
 }
-
-/* REMOVE CODE */
-/* .online-reputation-management img {
-    max-height: 200px;
-} */
-
- /* REMOVE CODE */
-/* .social-media-marketing img {
-    max-height: 200px;
-} */
 
 /* Sets the margin and font size for H2 headers within the main sections */
 .search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-/* Insert Comment */
-/* .online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-} */
-
-/* Insert Comment */
-/* .social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-} */
 
 /* CSS for Footer */
 .footer {
