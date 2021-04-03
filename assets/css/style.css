@@ -4,12 +4,11 @@
     margin: 0;
 }
 
-/* Insert Comment */
 body {
     background-color: #d9dcd6;
 }
 
-/* Insert Comment */
+/* Styling for Header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -17,18 +16,16 @@ body {
     color: #ffffff;
 }
 
-/* Insert Comment */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-/* Insert Comment */
 .header h1 .seo {
     color: #d9dcd6;
 }
 
-/* Insert Comment */
+/* Header navigation styling */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -37,22 +34,22 @@ body {
     font-size: 20px;
 }
 
-/* Insert Comment */
 .header nav ul {
     list-style-type: none;
 }
 
-/* Insert Comment */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* Anchor element styling */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Paragraph styling */
 p {
     font-size: 16px;
 }
@@ -67,25 +64,25 @@ p {
     background-position: center;
 }
 
+/* Applies to images within the sections of the main content */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
-/* Insert Comment */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
-/* Insert Comment */
+/* Applies to main content area */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-/* Insert Comment */
+/* Applies to sidebar */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -97,25 +94,26 @@ p {
     background-color: #2589bd;
 }
 
-/* Insert Comment */
+/* Color and spacing for articles in the sidebar */
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-/* Insert Comment */
+/* H3 headers in the sidebar */
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Articles in the sidebar */
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-/* Insert Comment */
+/* Main sections */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing{
     margin-bottom: 20px;
     padding: 50px;
@@ -136,7 +134,7 @@ p {
     font-size: 36px;
 }
 
-/* CSS for Footer */
+/* Styling for Footer */
 .footer {
     padding: 30px;
     clear: both;
